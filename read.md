@@ -1,4 +1,2 @@
 venancio
 vinicius
-michelle
-vitor
